@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d4c34aad-1e18-46d1-9d91-416b30b3250b",
+			"database_name": "snailclothdb"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
